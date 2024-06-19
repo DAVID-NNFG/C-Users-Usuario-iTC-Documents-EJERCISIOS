@@ -48,4 +48,5 @@ https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c11
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Calcular%20el%20n-%C3%A9simo%20n%C3%BAmero%20triangular.c
 21. **Calcular la suma de los factoriales de los primeros n números**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Calcular%20la%20suma%20de%20los%20factoriales%20de%20los%20primeros%20n%20n%C3%BAmeros.c
+
 **gracias por leer** 
