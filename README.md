@@ -41,8 +41,10 @@ https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c11
 17. **Producto de una serie de números fraccionarios**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Producto%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios.c
 18. **Contar los números primos hasta n**
+
+
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Numero%20primo.c
-19. **Calcular el n-ésimo número triangular**
+20. **Calcular el n-ésimo número triangular**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Calcular%20el%20n-%C3%A9simo%20n%C3%BAmero%20triangular.c
-20. **Calcular la suma de los factoriales de los primeros n números**
+21. **Calcular la suma de los factoriales de los primeros n números**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Calcular%20la%20suma%20de%20los%20factoriales%20de%20los%20primeros%20n%20n%C3%BAmeros.c
